@@ -1,0 +1,5 @@
+com\mycompany\observerp\pruebaObserver.class
+com\mycompany\observerp\ConcretObservadorCliente.class
+com\mycompany\observerp\IObservado.class
+com\mycompany\observerp\IObservador.class
+com\mycompany\observerp\ConcretObservadoProducto.class
